@@ -1,5 +1,5 @@
 
-#Leadership 502
+# Leadership 502
 
 ### Week 1 Slide Deck
 
