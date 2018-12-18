@@ -3,7 +3,7 @@
 
 ### Week 1 Slide Deck
 
----?image=LDRS502-1/assets/Slide01.jpeg
+---?image=LDRS502-1/assets/Slide01.jpeg&size=100%
 
 ---?image=LDRS502-1/assets/Slide02.jpeg&size=contain
 
