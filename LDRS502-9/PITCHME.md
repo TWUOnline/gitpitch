@@ -56,3 +56,6 @@
 ![](LDRS502-9/assets/Slide13.jpeg)
 
 ---
+
+
+Click the 'Back' button in your browser to return to the course content.
