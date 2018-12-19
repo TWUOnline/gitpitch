@@ -1,7 +1,7 @@
 
 # Leadership 502
 
-### Week 2 Slide Deck
+### Week 7 Slide Deck
 
 ---
 
