@@ -58,4 +58,4 @@
 ---
 
 
-Click the 'Back' button in your browser to return to the course content.
+Click the 'Back' button in your browser, or close this window to return to the course content.
